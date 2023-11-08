@@ -10,9 +10,9 @@ p {
     text-align: center;
 }
 #missao {
-    font-size: 20px
+    font-size: 25px
 }
 
 em strong {
-    color: #FF0000;
+    color: rgb(94, 255, 0);
 }
