@@ -7,7 +7,7 @@ width:100%;
 }
 
 .principal{
-background: #30f000;
+background: #adadad;
 padding: 30px;
 }
 
@@ -24,11 +24,11 @@ text-align: center;
 }
 
 #missao {
-font-size: 20px
+font-size: 45px
 }
 
 em strong {
-color: #FF0000;
+color: #00ff22;
 }
 
 .itens {
